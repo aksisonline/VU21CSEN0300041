@@ -1,0 +1,54 @@
+{
+    "categories": [
+        {
+            "name": "category1",
+            "products": [
+                { "id": "1", "name": "Product1", "rating": 5 },
+                { "id": "2", "name": "Product2", "rating": 4 },
+                { "id": "3", "name": "Product3", "rating": 3 },
+                { "id": "4", "name": "Product4", "rating": 2 },
+                { "id": "5", "name": "Product5", "rating": 1 }
+            ]
+        },
+        {
+            "name": "category2",
+            "products": [
+                { "id": "6", "name": "Product6", "rating": 5 },
+                { "id": "7", "name": "Product7", "rating": 4 },
+                { "id": "8", "name": "Product8", "rating": 3 },
+                { "id": "9", "name": "Product9", "rating": 2 },
+                { "id": "10", "name": "Product10", "rating": 1 }
+            ]
+        },
+        {
+            "name": "category3",
+            "products": [
+                { "id": "11", "name": "Product11", "rating": 5 },
+                { "id": "12", "name": "Product12", "rating": 4 },
+                { "id": "13", "name": "Product13", "rating": 3 },
+                { "id": "14", "name": "Product14", "rating": 2 },
+                { "id": "15", "name": "Product15", "rating": 1 }
+            ]
+        },
+        {
+            "name": "category4",
+            "products": [
+                { "id": "16", "name": "Product16", "rating": 5 },
+                { "id": "17", "name": "Product17", "rating": 4 },
+                { "id": "18", "name": "Product18", "rating": 3 },
+                { "id": "19", "name": "Product19", "rating": 2 },
+                { "id": "20", "name": "Product20", "rating": 1 }
+            ]
+        },
+        {
+            "name": "category5",
+            "products": [
+                { "id": "21", "name": "Product21", "rating": 5 },
+                { "id": "22", "name": "Product22", "rating": 4 },
+                { "id": "23", "name": "Product23", "rating": 3 },
+                { "id": "24", "name": "Product24", "rating": 2 },
+                { "id": "25", "name": "Product25", "rating": 1 }
+            ]
+        }
+    ]
+}
